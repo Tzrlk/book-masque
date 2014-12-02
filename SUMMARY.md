@@ -1,5 +1,8 @@
 # Summary
 
-* [Introduction](introduction.md)
-* Resources
-
+* Introduction
+* Setting
+ * Hegemony
+ * Vestiges
+* Crunch
+ * Resources
