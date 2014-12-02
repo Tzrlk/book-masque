@@ -1,4 +1,3 @@
-GitBook Example
-=======
+# Masque
 
-Welcome in your GitBook!
+Rules of the game
