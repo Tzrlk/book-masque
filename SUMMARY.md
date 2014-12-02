@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction]
 * Setting
  * Hegemony
  * Vestiges
